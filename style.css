@@ -1,0 +1,75 @@
+.body{
+	font-size: 18px;
+	font-weight: 300,400, 700; 
+	font-family: [Public Sans](ttps://fonts.google.com/specimen/Public+Sans);
+	position: absolute;
+}
+._header{
+	height: 50px;
+	background-color: white;
+	border-bottom: 1px solid grey;
+}
+.logo{
+	margin-left: 120px;
+	margin-top: 11px;
+	margin-bottom: 16px;
+}
+.links li{
+	list-style: none;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: hsl(220deg 2% 62%);
+
+}
+.links li a{
+	text-decoration: none;
+	color: hsl(220deg 2% 62%);
+	
+}
+.links li a:hover{
+	text-decoration: underline;
+	
+
+}
+.link-box{
+	margin-left: 450px;
+	margin-top: -60px;
+}
+.bay{
+	float: right;
+	margin-right: 244px;
+	margin-top: -42px;
+	border-radius: 24px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 16px;
+	padding-right: 16px;
+	background:hsl(159deg 61% 48%);
+	color: white;
+	border:hsl(159deg 61% 48%);
+}
+._banner{
+	background-color: (0, 0%, 98%);
+	margin:-10px;
+	margin-top:-24px;
+	position: relative;
+}
+.text-wrapper{
+	position: relative;
+}
+.text-title{
+	font-size: 50px;
+	padding-top: 182px;
+	padding-left: 200px;
+}
+.section-img{
+	height: 600px;
+	width: 450px;
+	float: right;
+	margin-top: -300px;
+}
+.text-description{
+	padding-left: 200px;
+}
+
